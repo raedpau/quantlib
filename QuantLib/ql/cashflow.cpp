@@ -1,5 +1,5 @@
 /* -*- mode: c++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
-
+Jetzt schreibe ich hier mal was rein...
 /*
  Copyright (C) 2009 Ferdinando Ametrano
  Copyright (C) 2009 StatPro Italia srl
